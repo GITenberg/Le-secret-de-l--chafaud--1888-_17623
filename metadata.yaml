@@ -1,0 +1,37 @@
+_repo: Le-secret-de-l--chafaud--1888-_17623
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Villiers de L'Isle-Adam, Auguste, comte de
+    aliases:
+    - De L'Isle-Adam, Auguste Villiers, comte de
+    - Villiers de L'Isle-Adam, Jean Marie Mathias Philippe Auguste, comte de
+    - L'Isle-Adam, Auguste Villiers de, comte de
+    - L'Isle-Adam, Auguste de Villiers de
+    - Isle-Adam, Auguste Villiers de L', comte de
+    - Villiers de L'Isle-Adam, Philippe-Auguste-Mathias, comte de
+    birthdate: 1838
+    deathdate: 1889
+    gutenberg_agent_id: '6262'
+    url: http://www.gutenberg.org/2009/agents/6262
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Auguste_Villiers_de_l%27Isle-Adam
+    - http://fr.wikipedia.org/wiki/Auguste_Villiers_de_l%27Isle-Adam
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17623'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature'
+- !lcc 'PQ'
+title: Le secret de l'échafaud
+url: http://www.gutenberg.org/ebooks/17623
